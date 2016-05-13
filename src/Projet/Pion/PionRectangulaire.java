@@ -6,9 +6,6 @@ import java.awt.*;
 import java.awt.geom.Ellipse2D;
 import java.awt.geom.Rectangle2D;
 
-/**
- * Created by Zwitterion on 21/03/16.
- */
 public class PionRectangulaire extends PionBicolore {
 
     public PionRectangulaire(FenetreGrille fenetreGrille, int posX, int posY) {

@@ -9,9 +9,7 @@ import java.awt.*;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 
-/**
- * Created by Zwitterion on 21/03/16.
- */
+
 public abstract class PionBicolore extends JComponent implements MouseListener {
 
     private boolean cache;

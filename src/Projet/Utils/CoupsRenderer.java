@@ -3,9 +3,6 @@ package Projet.Utils;
 import javax.swing.*;
 import java.awt.*;
 
-/**
- * Created by Zwitterion on 22/03/16.
- */
 public class CoupsRenderer extends JPanel implements ListCellRenderer<String> {
 
     private JTextArea coup;

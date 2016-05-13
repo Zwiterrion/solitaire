@@ -5,9 +5,6 @@ import Projet.Utils.Utils;
 import javax.swing.*;
 import java.awt.*;
 
-/**
- * Created by Zwitterion on 21/03/16.
- */
 public class FenetreScore extends FenetreMenu {
 
     private int score;

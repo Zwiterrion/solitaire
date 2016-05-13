@@ -1,8 +1,5 @@
 package Projet.Utils;
 
-/**
- * Created by Zwitterion on 26/03/16.
- */
 public enum TypePion {
 
     RECTANGULAIRE("Rectangle"), CERCLE("Cercle");

@@ -1,16 +1,12 @@
 package Projet.Fenetre;
 
 import Projet.Pion.PionBicolore;
-import Projet.Pion.PionCercle;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
-/**
- * Created by Zwitterion on 26/03/16.
- */
 public class FenetreJeuInverse extends FenetreSuiteCoups {
 
     private boolean jeuInverse;

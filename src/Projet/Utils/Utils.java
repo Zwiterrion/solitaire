@@ -2,9 +2,6 @@ package Projet.Utils;
 
 import java.awt.*;
 
-/**
- * Created by Zwitterion on 21/03/16.
- */
 public class Utils {
 
     public static Font policeText = new Font("Comis Sans MS", Font.PLAIN, 20);

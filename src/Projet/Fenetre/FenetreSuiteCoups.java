@@ -7,9 +7,7 @@ import javafx.util.Pair;
 import javax.swing.*;
 import java.awt.BorderLayout;
 
-/**
- * Created by Zwitterion on 22/03/16.
- */
+
 public class FenetreSuiteCoups extends FenetreGrille {
 
     private JList<String> liste;

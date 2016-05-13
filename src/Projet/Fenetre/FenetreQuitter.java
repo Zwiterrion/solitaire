@@ -3,9 +3,6 @@ package Projet.Fenetre;
 import javax.swing.*;
 import java.awt.*;
 
-/**
- * Created by Zwitterion on 21/03/16.
- */
 public class FenetreQuitter extends JFrame {
 
     private Box menuBas;

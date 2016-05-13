@@ -13,9 +13,7 @@ import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.util.ArrayList;
 
-/**
- * Created by Zwitterion on 21/03/16.
- */
+
 public class FenetreGrille extends FenetreScore {
 
     private int n;
@@ -156,6 +154,7 @@ public class FenetreGrille extends FenetreScore {
 
         if(testEstTermine()) {
             JOptionPane.showMessageDialog(this, "Vous avez gagné en " + getScore() + " coups ! Félicitations", "Partie terminée", JOptionPane.INFORMATION_MESSAGE, null);
+            rejouer();
         }
         else
             repaint();

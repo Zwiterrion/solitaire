@@ -8,9 +8,6 @@ import java.awt.*;
 import java.awt.event.MouseEvent;
 import java.awt.geom.Ellipse2D;
 
-/**
- * Created by Zwitterion on 21/03/16.
- */
 public class PionCercle extends PionBicolore {
 
     public PionCercle(FenetreGrille fenetreGrille, int posX, int posY) {
